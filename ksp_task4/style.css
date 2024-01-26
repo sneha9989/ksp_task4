@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://slidechef.net/wp-content/uploads/2021/06/Fre-Minimal-Background-Pitch-Deck-Google-Slides-1.jpg);
+ }
+  
+ form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  label {
+    display: block;
+    margin-bottom: 16px; 
+    color: #333;
+  }
+  .label1, .label2, .label3, .label4, .label5, .label6 {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px; 
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  button {
+    background-color:aqua;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
